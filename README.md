@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Winter Greetings Page
+
+A festive winter-themed Next.js page featuring:
+- Animated snowfall
+- SVG snowman
+- Interactive greeting cards
+- Holiday decorations
 
 ## Getting Started
 
