@@ -95,7 +95,7 @@ export default function Home() {
             <Card className="bg-white/10 backdrop-blur-lg border-white/20 text-white transition-all duration-300">
               <CardHeader className="flex flex-row items-center gap-3">
                 <span className="text-3xl">🎄</span>
-                <h2 className="text-2xl font-bold text-green-200">Season's Greetings</h2>
+                <h2 className="text-2xl font-bold text-green-200">Season&apos;s Greetings</h2>
               </CardHeader>
               <CardContent>
                 <p className="text-blue-100 leading-relaxed">
@@ -105,7 +105,7 @@ export default function Home() {
               </CardContent>
               <CardFooter className="flex justify-between items-center">
                 <span className="text-sm text-blue-200 italic">
-                  - From Santa's Workshop 🎅
+                  - From Santa&apos;s Workshop 🎅
                 </span>
                 <Button 
                   variant="secondary" 
